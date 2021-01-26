@@ -1,2 +1,2 @@
 # energy-grid-processing-matlab
-MATLAB scripts for processing energy grid files of zeolites using methane probe molecule.
+MATLAB scripts for filtering and processing (methane probe molecule) zeolite energy grid files.
